@@ -1,0 +1,3 @@
+Source code for my exact and noisy language model implementations can be found in ./src. For more information about the model and results, refer to assign1.pdf.
+
+The referenced library (JAR file) can be downloaded from http://www.cs.berkeley.edu/~klein/cs288/sp11/assignment1.html. Unfortunately I cannot include them here due to licensing reasons.
